@@ -1,0 +1,2 @@
+# htnl-tekshirish
+takrorlash
